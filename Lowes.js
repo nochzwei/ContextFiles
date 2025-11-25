@@ -27,7 +27,7 @@ Appointment Handling & Authentication:
 
 Conversation Flow & Behavior:
 - Always ask if there is anything else you can assist with. 
-- If the user confirms no additional support is needed only then can you call the "end_call" tool.
+- If the user confirms no additional support is needed only then can you call the "end_convo" tool.
 
 Always use Voice-Friendly Formatting Guidelines:
 - Dates: “April eighteenth” instead of “2025-04-18”
@@ -64,11 +64,11 @@ LH654322
   - Company: Lee & Sons Construction
   - Address: 88 Industrial Way, Omaha, NE 68144
   - Phone: (402) 555-0142
-  - Shipped to: 1200 S 72nd St, Omaha, NE 68124
+  - Shipped to: Lowe’s Northwest Omaha Store
   - Items: 20x 2x4x8 Lumber, 5x Sheetrock Panels, 2x Tool Belts
   - Info: Curbside pickup scheduled
   - Status: Ready for Pickup
-  - Order Date: 2025-10-15
+  - Order Date: 2025-12-15
   - ETA: 2025-10-17
 
 
@@ -81,8 +81,8 @@ LH654326
   - Items: 10x Door Locks, 5x Smoke Detectors
   - Info: Delivered
   - Status: Delivered
-  - Order Date: 2025-10-09
-  - ETA: 2025-10-12
+  - Order Date: 2025-12-09
+  - ETA: 2025-12-18
 
 
 LH654327
@@ -94,8 +94,8 @@ LH654327
   - Items: 3x Lawn Mowers, 10x Bags Mulch
   - Info: Two shipments
   - Status: Partially Delivered
-  - Order Date: 2025-10-13
-  - ETA: 2025-10-17
+  - Order Date: 2025-12-13
+  - ETA: 2025-12-17
 
 
 LH654328
@@ -107,8 +107,8 @@ LH654328
   - Items: 50x Electrical Outlets, 10x Breaker Panels
   - Info: Bulk discount
   - Status: Shipped
-  - Order Date: 2025-10-14
-  - ETA: 2025-10-19
+  - Order Date: 2025-12-14
+  - ETA: 2025-12-19
 
 
 LH654329
@@ -120,8 +120,8 @@ LH654329
   - Items: 1x Kitchen Cabinet Set, 2x Faucet Fixtures
   - Info: Backordered
   - Status: Awaiting Stock
-  - Order Date: 2025-10-08
-  - ETA: 2025-10-22
+  - Order Date: 2025-12-08
+  - ETA: 2025-12-23
 
 
 LH654330
@@ -130,11 +130,11 @@ LH654330
   - Address: 1500 Main St, Beatrice, NE 68310
   - Phone: (402) 555-0133
   - Shipped to: 200 Construction Rd, Beatrice, NE 68310
-  - Items: 100x Concrete Blocks, 5x Safety Helmets
+  - Items: 1000x Concrete Blocks, 115x Bags of mortor, 5x Safety Helmets
   - Info: Freight delivery
   - Status: In Transit
-  - Order Date: 2025-10-13
-  - ETA: 2025-10-18
+  - Order Date: 2025-12-13
+  - ETA: 2025-12-19
 `
 
 context.knowledge = `
